@@ -3,6 +3,9 @@
 *.jpeg
 *.png
 
+# Mac
+*.DS_Store
+
 # Executables
 *.exe
 *.out

@@ -1,0 +1,1 @@
+This directory includes 5 images. The first two are similar to each other, the next two are similar to each other but different than the first two, and the last image is entirely different. 
